@@ -16,20 +16,19 @@
 
 **Follow Me**
 
-<img src="{[BadgeURLHere](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
-)}" />
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/alexandresanlim/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/alexandresanlim">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
-![image]({[BadgeURLHere](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)})
-
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-
-https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
-https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white
-
+<p align='center'>
+  
 **My Websites**
 
 - https://alsalim.net/
