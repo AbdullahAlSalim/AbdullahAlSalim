@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @AbdullahAlSalim
-- 👀 I’m interested in Avation, Programming & Civil Engineering World
-- 🌱 I’m currently learning Python Language
-- 📫 How to reach me ... via my website: alsalim.net
+🔭 I’m currently working as Logistics and Supply Chain Specialist
 
-<!---
-AbdullahAlSalim/AbdullahAlSalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning HTML, PHP & PYTHON
+
+📝 I AM FOUNDER OF ALSALIM GROUP & ALSALIM ACADEMY
+
+💬 Ask me about php, HTML, CSS
+
+📫 How to reach me A@ALSALIM.NET
+
+📄 Know about my experiences https://www.linkedin.com/in/abdullahalsalim
+
+**Support Me
+**
+<a href="https://www.buymeacoffee.com/alsalim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
