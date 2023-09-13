@@ -14,4 +14,9 @@
 
 <a href="https://www.buymeacoffee.com/alsalim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+**Follow Me**
+
 [![alsalimofficial](https://img.shields.io/twitter/follow/alsalimofficial?logo=twitter&style=for-the-badge)](https://twitter.com/alsalimofficial)
+
+[![r7i](https://img.shields.io/instagram/follow/r7i?logo=instagram&style=for-the-badge)](https://instagram.com/r7i)
+
