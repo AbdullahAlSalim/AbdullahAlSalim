@@ -1,3 +1,7 @@
+<h1 align='center'>
+  Hi there 👋 I'm Abdullah Al-Salim 👨‍💻
+</h1>
+
 🔭 I’m currently working as Logistics and Supply Chain Specialist
 
 🌱 I’m currently learning HTML, PHP & PYTHON
