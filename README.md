@@ -16,7 +16,8 @@
 
 **Follow Me**
 
-https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
+<img src="{[BadgeURLHere](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
+)}" />
 
 https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
