@@ -16,7 +16,17 @@
 
 **Follow Me**
 
-[![alsalimofficial](https://img.shields.io/twitter/follow/alsalimofficial?logo=twitter&style=for-the-badge)](https://twitter.com/alsalimofficial)
+https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
 
-[![r7i](https://img.shields.io/instagram/follow/r7i?logo=instagram&style=for-the-badge)](https://instagram.com/r7i)
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
+https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white
+
+**My Websites**
+
+- https://alsalim.net/
+- https://alsalim.org/
